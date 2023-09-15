@@ -1,0 +1,1 @@
+Robocopy C:\ %userprofile%\desktop *.pst /z /s /r:2 /w:2 /xd %userprofile%\desktop
